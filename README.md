@@ -8,7 +8,7 @@
  - Wi-Fi scanner with highlighting based on iw;
 # Requirements
  - Python 3.6 and above;
- - [Wpa supplicant](https://www.w1.fi/wpa_supplicant/);
+ - [Wpa supplicant](https://www.w1.fi/wpa_supplicant/); [For termux](https://github.com/termux/termux-root-packages/issues/120);
  - [Pixiewps](https://github.com/wiire-a/pixiewps);
  - [iw](https://wireless.wiki.kernel.org/en/users/documentation/iw).
 # Setup
